@@ -1,1 +1,3 @@
+Test Conflict line.
 Adding text2 in branch 1
+
